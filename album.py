@@ -1,4 +1,4 @@
-def make_album(artist_name, album_title, track_no = ''):
+def make_album(artist_name, album_title, track_no=''):
     if track_no:
         album_info = {'Artist name': artist_name, 'Title of the album':album_title, 'Number of tracks':track_no}
         print(album_info)
