@@ -11,3 +11,8 @@ class Restaurant():
     def open_restaurant(self):
         print("Our restaurant is currently open")
 
+restaurant = Restaurant('Shijoki', 'Japan Cuisine')
+restaurant.describe_restaurant()
+restaurant.open_restaurant()
+print("\n" + restaurant.restaurant_name)
+print(restaurant.cuisine_type)
