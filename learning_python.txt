@@ -1,0 +1,8 @@
+In Python you can create classes
+In Python you can work with loops
+In Python you can work with functions
+In Python you can work with lists
+In Python you can work with dicts
+In Python you can work with tuples
+In Python you can work with sets
+In Python you can import with modules from other files
